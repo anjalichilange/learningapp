@@ -1,0 +1,7 @@
+C:\Users\Course Materials\AZ_204_CodeSamples\Sample1\learningapp1\bin\Publish\learningApp1.exe
+C:\Users\Course Materials\AZ_204_CodeSamples\Sample1\learningapp1\bin\Publish\appsettings.Development.json
+C:\Users\Course Materials\AZ_204_CodeSamples\Sample1\learningapp1\bin\Publish\appsettings.json
+C:\Users\Course Materials\AZ_204_CodeSamples\Sample1\learningapp1\bin\Publish\learningApp1.dll
+C:\Users\Course Materials\AZ_204_CodeSamples\Sample1\learningapp1\bin\Publish\learningApp1.deps.json
+C:\Users\Course Materials\AZ_204_CodeSamples\Sample1\learningapp1\bin\Publish\learningApp1.runtimeconfig.json
+C:\Users\Course Materials\AZ_204_CodeSamples\Sample1\learningapp1\bin\Publish\learningApp1.pdb
